@@ -6,6 +6,7 @@ var name=document.getElementById('name').value;
 
 function myFunction()    //For the userName input here!!
 {    debugger;
+ var name=document.getElementById('name').value;
     
     var uname=(name == " ") ? "Hello Dear!":document.getElementById('getName').innerHTML="Hello" + " " +name  + "!";
 }
