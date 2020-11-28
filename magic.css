@@ -1,9 +1,9 @@
 body{
   
     background-image: linear-gradient(to right top, #f01c95, #c2329c, #943c98, #673f8c, #403b77, #2a4176, #134572, #00486b, #005b79, #006d83, #008089, #13928a);
-   /*background-image:url("magic.gif");
+   /*background-image:url("magic.gif");*/
 
-   background-position: center; background-attachment: fixed; background-size: 100% 100%;*/
+   background-position: center; background-attachment: fixed; background-size: 100% 100%;
    background-repeat:repeat-y;
    overflow-x: hidden;
 }
